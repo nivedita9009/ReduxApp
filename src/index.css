@@ -1,0 +1,40 @@
+.image{
+  height: 120px;
+  
+
+  
+}
+.card{
+  background: white;
+  padding: 30px;
+  text-align: center;
+ 
+  
+}
+.title{
+  margin: 1px;
+}
+.price{
+  margin: 1px;
+  
+}
+
+.heading{
+  text-align: center;
+  text-decoration-line: underline;
+  color: rgba(255, 2, 145, 0.783);
+}
+.productHead{
+  text-align: center;
+  font-style: oblique;
+}
+.btn{
+  color: blue;
+}
+
+.cart{
+  text-align: center;
+  font-size: 45px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
